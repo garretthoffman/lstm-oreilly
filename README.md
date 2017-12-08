@@ -37,10 +37,10 @@ This repository contains source code corresponding to our article ["Modeling Sto
 5. After building, starting, and attaching to the appropriate Docker container, run the provided Jupyter notebooks by entering
 
     ```
-    jupyter notebook --ip 0.0.0.0
+    jupyter notebook --ip 0.0.0.0 --allow-root
     ```
 
-    and navigate to [http://0.0.0.0:8888](http://0.0.0.0:8888) in your browser.
+    and navigate to the specified URL (http://0.0.0.0:8888/?token=<JUPYTER NOTEBOOK ACCESS TOKEN>) in your browser.
     
 6. Choose `Stock Market Sentiment with LSTMs and TensorFlow.ipynb` to open the Notebook.
 	
@@ -83,3 +83,7 @@ If you don't have or don't want to use Docker, you can follow these steps to set
 	to finally start up the notebook. A browser should open automatically. If not, navigate to [http://127.0.0.1:8888](http://127.0.0.1:8888) in your browser. 
 	
 8. Choose `Stock Market Sentiment with LSTMs and TensorFlow.ipynb` to open the Notebook.
+
+#### Notes
+
+The `checkpoints/` directory files with the saved model was note uploaded to github due to size constraints. If you run the code in your docker container or Miniconda virtual environtment, the model will rerun and save at that time.
