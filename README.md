@@ -13,7 +13,7 @@ This repository contains source code corresponding to our article ["Modeling Sto
 2. Clone the repository by entering
 
     ```
-    git clone https://github.com/dmonn/dcgan-oreilly.git
+    git clone https://github.com/dmonn/lstm-oreilly.git
     ```
 	
 ### Option 1: Dockerfiles (Recommended)
