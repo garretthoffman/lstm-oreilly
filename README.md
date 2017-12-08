@@ -40,7 +40,7 @@ This repository contains source code corresponding to our article ["Modeling Sto
     jupyter notebook --ip 0.0.0.0 --allow-root
     ```
 
-    and navigate to the specified URL (http://0.0.0.0:8888/?token=<JUPYTER NOTEBOOK ACCESS TOKEN>) in your browser.
+    and navigate to the specified URL `http://0.0.0.0:8888/?token=<JUPYTER NOTEBOOK ACCESS TOKEN>` in your browser.
     
 6. Choose `Stock Market Sentiment with LSTMs and TensorFlow.ipynb` to open the Notebook.
 	
