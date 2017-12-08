@@ -86,4 +86,4 @@ If you don't have or don't want to use Docker, you can follow these steps to set
 
 #### Notes
 
-The `checkpoints/` directory files with the saved model was note uploaded to github due to size constraints. If you run the code in your docker container or Miniconda virtual environtment, the model will rerun and save at that time.
+The `checkpoints/` directory files with the saved model was not uploaded to github due to size constraints. If you run the code in your docker container or Miniconda virtual environtment, the model will rerun and save at that time.
