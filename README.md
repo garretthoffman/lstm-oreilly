@@ -1,8 +1,8 @@
-# Modeling Stock Market Sentiment with LSTMs and TensorFlow
+# Introduction to LSTMs with TensorFlow
 
 In this tutorial, we will build a Long Short Term Memory (LSTM) Network to predict the stock market sentiment based on a comment about the market.
 
-This repository contains source code corresponding to our article ["Modeling Stock Market Sentiment with LSTMs and TensorFlow"]().
+This repository contains source code corresponding to our article ["Introduction to LSTMs with TensorFlow"]().
 
 ## Setup
 
