@@ -1,8 +1,8 @@
 # Introduction to LSTMs with TensorFlow
 
-In this tutorial, we will build a Long Short Term Memory (LSTM) Network to predict the stock market sentiment based on a comment about the market.
+In this tutorial, we will build a Long Short Term Memory (LSTM) Network to predict the stock market sentiment based on a comments about the market from ["StockTwits.com"](https://stocktwits.com).
 
-This repository contains source code corresponding to our article ["Introduction to LSTMs with TensorFlow"]().
+This repository contains source code corresponding to our article ["Introduction to LSTMs with TensorFlow"](https://oreilly.com/ideas/introduction-to-lstms-with-tensorflow).
 
 ## Setup
 
