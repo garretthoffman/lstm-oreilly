@@ -1,5 +1,5 @@
 # Set the base image to Ubuntu
-FROM tensorflow/tensorflow:latest-py3
+FROM tensorflow/tensorflow:latest-py3-jupyter
 
 # File Author / Maintainer
 MAINTAINER Garrett Hoffman
